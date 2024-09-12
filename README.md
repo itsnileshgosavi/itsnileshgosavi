@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my full stack course assignments.<br>👯 I’m looking to collaborate on any interesting open source projects with react, express, next etc.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning data structures and algorithms.<br>💬 Ask me anything about Javascript.<br>⚡ Fun fact: I developed two full stack web apps without any CS degree.
+🔭 I’m currently looking for a job.<br>👯 I’m looking to collaborate on any interesting open source projects with react, express, next etc.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning data structures and algorithms.<br>💬 Ask me anything about Javascript.<br>⚡ Fun fact: I developed two full stack web apps without any CS degree.
 
 
 ## 🌐 Socials:
